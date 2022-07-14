@@ -1,4 +1,4 @@
-module Myenumerable
+module MyEnumerable
     def all? 
       ans = false
       @list.each  do |item|
